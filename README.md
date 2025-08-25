@@ -40,13 +40,12 @@ The system employs a sophisticated multi-method approach, culminating in a hybri
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd repo
+   git clone https://github.com/chienpb/email-template-branding.git
    ```
 
 2. **Create environment configuration**
    
-   Create a `config.env` file in the root directory:
+   Create a `.env` file in the root directory:
    ```env
    OPENAI_API_KEY=your_openai_api_key_here
    ```
